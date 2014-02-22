@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-blocks</artifactId>
-    <version>0.1.8</version>
+    <version>0.1.9-SNAPSHOT</version>
     <name>angular-blocks</name>
     <description>WebJar for angular-blocks</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/angular-blocks</url>
         <connection>scm:git:https://github.com/webjars/angular-blocks.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-blocks.git</developerConnection>
-        <tag>angular-blocks-0.1.8</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
